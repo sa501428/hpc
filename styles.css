@@ -1,0 +1,68 @@
+body {
+    background-color: #e8f5f5;
+    padding: 20px;
+}
+
+header {
+    margin-bottom: 20px;
+}
+
+h1 {
+    color: #333;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+}
+
+.card {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+.form-control {
+    max-width: 100%;
+}
+
+small.text-muted {
+    font-style: italic;
+    color: #666;
+}
+
+#chart {
+    width: 100%;
+    height: 400px;
+}
+
+.line {
+    fill: none;
+    stroke-width: 2;
+}
+
+.line.he {
+    stroke: #28a745;
+}
+
+.line.ee {
+    stroke: #007bff;
+}
+
+.line.le {
+    stroke: #dc3545;
+}
+
+.grid line {
+    stroke: #ddd;
+    stroke-opacity: 0.7;
+}
+
+footer {
+    padding: 20px 0;
+}
+
+footer .small {
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+}
+
+hr {
+    margin: 2rem 0;
+} 
